@@ -249,7 +249,7 @@ export function SideBar(props: { className?: string }) {
         <DragIcon />
       </div>
       <div className={styles["beian"]}>
-        <a href="https://beian.miit.gov.cn/">鄂ICP备19006395号</a>
+        <a href="https://beian.miit.gov.cn/">鄂ICP备19006395号 </a>
       </div>
     </div>
   );
