@@ -158,6 +158,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>Deployed by maokg</div>
+        <div className={styles["sidebar-sub-title"]}>由于OpenAI已经免费开放ChatGPT3.5的访问，您可以自行去OpenAI官网使用GPT3.5，本站不再提供免费的API Key访问。如果您有自己的API Key，仍可以在本站设置页面中使用您自己的Key访问。</div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
         </div>
